@@ -35,25 +35,30 @@ header{
 	
 }
 h1 {
-	color: orangered;
+	color: black;
 text-align: center;
+padding: 22 px; 
+font-size: 30 px;
 
 }
 main{
 	background-color: black;
 	color: orangered;
 	text-align: center;
+	padding: 22 px; 
 	
 }
 body {
 	background-color: black;
 	chocolate;
 	line-height: 1 ;
+	padding: 22 px; 
 }
 ol, ul {
 	background-color: black
 	color: orangered
 	list-style: none;
+	padding: 22 px; 
 }
 blockquote, q {
 	background-color: black
@@ -67,4 +72,27 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color:orangered;
+    padding: 20px;
+    font-size: 16px;
+}
+ main section h2 {
+	padding: 20 px;
+}
+#mo{
+	padding: 25px;
+	font-size: 50px ;
+}
+#mu{
+	padding: 15 px;
+	font-size: 30 px;
+}
+#mz{
+	padding: 15 px;
+	font-size: 30 px;
 }
