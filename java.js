@@ -54,7 +54,7 @@ if (meal == 'yes') {
 } else if (meal == 'y') {
     alert('who is the one does\'nt love mansaf!');
 } else if (meal == 'no') {
-     alert('wrong awnser')
+     alert('wrong awnser') ;
 }
 else {
     alert('wrong');

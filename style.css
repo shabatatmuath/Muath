@@ -48,7 +48,7 @@ main{
 body {
 	background-color: black;
 	chocolate;
-	line-height: 1;
+	line-height: 1 ;
 }
 ol, ul {
 	background-color: black
