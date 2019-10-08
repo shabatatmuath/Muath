@@ -19,7 +19,6 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -86,13 +85,32 @@ div.sticky {
 }
 #mo{
 	padding: 25px;
-	font-size: 50px ;
-}
-#mu{
-	padding: 15 px;
-	font-size: 30 px;
+	font-size: 35px;
 }
 #mz{
-	padding: 15 px;
-	font-size: 30 px;
+	padding: 35px;
+	font-size: 35px;
+}
+#mu{
+	padding: 35px;
+	font-size: 35px;
+}
+ol li {
+	color: orangered;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 35px; 
+
+}
+h3 {
+	font-size: 35px;
+	padding: 35px;
+}
+#name{
+	font-size: 20px;
+	text-align: center;
+}
+#bi {
+	font-size: 20px;
+	text-align: center;
 }
