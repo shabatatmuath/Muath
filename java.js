@@ -81,7 +81,7 @@ for (let j = 0; j < 4; j++) {
             alert('wrong !');
         }
     }
-    alert('My lovely color is: \"brown\", \"whaite\", \"black\", \"red\", \"green\"')
+    alert('My lovely color is: \"brownnnnnnn\", \"whaite\", \"black\", \"red\", \"green\"')
     alert('You got ' + counter + '/7')
 
 
