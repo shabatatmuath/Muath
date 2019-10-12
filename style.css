@@ -33,8 +33,11 @@ header{
 	text-align: center
 	
 }
+
+
+
 h1 {
-	color: black;
+	color: rgb(0, 0, 0);
 text-align: center;
 padding: 22 px; 
 font-size: 30 px;
@@ -42,7 +45,7 @@ font-size: 30 px;
 }
 main{
 	background-color: black;
-	color: orangered;
+	color: rgb(238, 190, 119);
 	text-align: center;
 	padding: 22 px; 
 	
@@ -76,7 +79,7 @@ div.sticky {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-color:orangered;
+    background-color:rgb(255, 149, 0);
     padding: 20px;
     font-size: 16px;
 }
@@ -96,7 +99,7 @@ div.sticky {
 	font-size: 35px;
 }
 ol li {
-	color: orangered;
+	color: burlywood;
 	font-size: 20px;
 	text-align: left;
 	margin-left: 35px; 
@@ -114,3 +117,10 @@ h3 {
 	font-size: 20px;
 	text-align: center;
 }
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 200px;
+  }
